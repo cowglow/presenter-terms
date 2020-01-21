@@ -2,10 +2,7 @@ For an HTML version, check [here](https://cowglow.github.io/presenter-terms/)
 
 # Philip Saa speaking terms
 
-Hello I am Philip and I am happy that you are interested in me speaking at your event. 
-I forked Christian Heilmann's [presenter terms](https://github.com/codepo8/presenter-terms) to base my own on terms. 
-While my experience might be limited, I will treat speaking at your event with the utmost respect and professionalism.
-Therefore I want to make sure that there is no misconception about what I expect and deliver.
+Hello I am Philip and I am happy that you are interested in me speaking at your event. I forked Christian Heilmann's [presenter terms](https://github.com/codepo8/presenter-terms) to base my own terms. While my experience might be limited, I will treat speaking at your event with the utmost respect and professionalism. Therefore I want to make sure that there is no misconception about what I expect and deliver.
 
 ## Personal information
 
@@ -18,12 +15,7 @@ Therefore I want to make sure that there is no misconception about what I expect
 
 ## Presenter Bio
 
-> Philip Saa is an American living and working in Germany. His interest range from film making to music theory and
-> has experience in a variety of creative multimedia disciplines. He moved to Germany to work for Raythoen IIS where
-> his responsibilities included producing video products and programming the [Simtelink Platform](https://www.dvidshub.net/video/385954/simtelink-capability).
-> He is currently programming for compose.us GmbH, a distributed start-up focusing on digital automation solutions for 
-> medium to large companies in Germany and Austria. From time to time he also also publishes Instagram Stories and short
-> video projects on his YouTube Channel.
+> Philip Saa is an American living and working in Germany. His interest range from film making to music theory and has experience in a variety of creative multimedia disciplines. He moved to Germany to work for Raythoen IIS where his responsibilities included producing video products and programming the [Simtelink Platform](https://www.dvidshub.net/video/385954/simtelink-capability). He is currently programming for compose.us GmbH, a distributed start-up focusing on digital automation solutions for medium to large companies in Germany and Austria. From time to time he also also publishes Instagram Stories and short video projects on his YouTube Channel.
 
 ## I am available for... 
 
